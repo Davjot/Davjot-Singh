@@ -1,0 +1,54 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	color: red;
+	text-decoration: underline;
+}
+.bold1{
+	font-size:20px;
+	color: brown;
+	text-decoration: underline;
+}
+#bold1{
+	font-size: 20px;
+	color: brown;
+}
+a:link{
+	color: brown;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: orange;
+}
+a:active{
+	color: red;
+}
+#p1{
+	font-size: 20px;
+	text-decoration: underline;
+}
+.lab1{
+	font-size: 20px
+	padding: 15px;
+    margin: 5px;
+    text-decoration: underline;
+    color: red;
+}
+#tab1{
+	border:1px solid black;
+    border-collapse: collapse; 
+    margin: 15px 30px 15px 15px; 
+    padding:25px
+}
+#th1{
+	border: 1px solid black;
+	padding: 15px;
+	margin: 15px;
+}
+.td1{
+	border: 1px solid black;
+	text-align: center;
+}
