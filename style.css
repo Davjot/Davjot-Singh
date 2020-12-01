@@ -4,6 +4,8 @@ body{
 h1{
 	color: red;
 	text-decoration: underline;
+	margin: 15px;
+	padding: 15px;
 }
 .bold1{
 	font-size:20px;
@@ -31,17 +33,18 @@ a:active{
 	text-decoration: underline;
 }
 .lab1{
-	font-size: 20px
+	font-size: 20px;
 	padding: 15px;
     margin: 5px;
     text-decoration: underline;
     color: red;
 }
 #tab1{
-	border:1px solid black;
+	border:3px solid black;
     border-collapse: collapse; 
     margin: 15px 30px 15px 15px; 
-    padding:25px
+    padding:25px 30px 15px 15px;
+    background-color: lavender;
 }
 #th1{
 	border: 1px solid black;
@@ -51,4 +54,17 @@ a:active{
 .td1{
 	border: 1px solid black;
 	text-align: center;
+	color: brown;
+	font-size: 20px;
+}
+h3{
+	color: brown;
+	font-size: 20px;
+	text-decoration: underline;
+	margin: -18px;
+	padding: 15px;
+}
+#ul1{
+	margin: -20px -10px;
+	list-style-type: circle;
 }
